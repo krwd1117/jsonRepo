@@ -2,13 +2,26 @@
   {
     "category": "한식",
     "name": "비빔밥",
-    "price": 8000,
-    "url": "https://health.chosun.com/site/data/img_dir/2021/01/27/2021012702508_0.jpg"
+    "price": 8000
   },
   {
     "category": "한식",
     "name": "국밥",
-    "price": 9000,
-    "url": "https://img5.yna.co.kr/etc/inner/KR/2019/01/24/AKR20190124092700005_01_i_P4.jpg"
+    "price": 9000
+  },
+  {
+    "category": "한식",
+    "name": "부대찌개",
+    "price": 9000
+  },
+  {
+    "category": "한식",
+    "name": "설렁탕",
+    "price": 9000
+  },
+  {
+    "category": "양식",
+    "name": "돈까스",
+    "price": 9000
   }
 ]
