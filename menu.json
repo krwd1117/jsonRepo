@@ -2,11 +2,13 @@
   {
     "category": "한식",
     "name": "비빔밥",
-    "price": 8000
+    "price": 8000,
+    "url": "https://health.chosun.com/site/data/img_dir/2021/01/27/2021012702508_0.jpg"
   },
   {
     "category": "한식",
     "name": "국밥",
-    "price": 9000
+    "price": 9000,
+    "url": "https://img5.yna.co.kr/etc/inner/KR/2019/01/24/AKR20190124092700005_01_i_P4.jpg"
   }
 ]
