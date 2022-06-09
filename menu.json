@@ -23,5 +23,10 @@
     "category": "양식",
     "name": "돈까스",
     "price": 9000
+  },
+  {
+    "category": "중식",
+    "name": "짜장면",
+    "price": 7000
   }
 ]
