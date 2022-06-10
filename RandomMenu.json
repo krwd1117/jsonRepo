@@ -1,0 +1,35 @@
+{
+  "updatedDate": 202206101310,
+  "menu": [
+    {
+      "category": "한식",
+      "name": "비빔밥",
+      "price": 8000
+    },
+    {
+      "category": "한식",
+      "name": "국밥",
+      "price": 9000
+    },
+    {
+      "category": "한식",
+      "name": "부대찌개",
+      "price": 9000
+    },
+    {
+      "category": "한식",
+      "name": "설렁탕",
+      "price": 9000
+    },
+    {
+      "category": "양식",
+      "name": "돈까스",
+      "price": 9000
+    },
+    {
+      "category": "중식",
+      "name": "짜장면",
+      "price": 7000
+    }
+  ]
+}
