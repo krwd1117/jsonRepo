@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202206131600,
+  "updatedDate": 202206131652,
   "foods": [
     {
       "category": "한식",
@@ -28,6 +28,10 @@
     {
       "category": "한식",
       "name": "제육볶음"
+    },
+    {
+      "category": "양식",
+      "name": "샌드위치"
     }
   ]
 }
