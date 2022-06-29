@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202206161634,
+  "updatedDate": 202206291755,
   "foods": [
     {
       "category": "한식",
@@ -18,12 +18,20 @@
       "name": "설렁탕"
     },
     {
-      "category": "양식",
+      "category": "일식",
       "name": "돈까스"
+    },
+    {
+      "category": "일식",
+      "name": "라멘"
     },
     {
       "category": "중식",
       "name": "짜장면"
+    },
+    {
+      "category": "중식",
+      "name": "짬뽕"
     },
     {
       "category": "한식",
