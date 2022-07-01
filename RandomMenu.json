@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202206301554,
+  "updatedDate": 202207010957,
   "foods": [
     {
       "category": "한식",
@@ -28,10 +28,6 @@
     {
       "category": "중식",
       "name": "짜장면"
-    },
-    {
-      "category": "중식",
-      "name": "짬뽕"
     },
     {
       "category": "한식",
