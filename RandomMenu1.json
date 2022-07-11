@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202207010957,
+  "updatedDate": 202207111121,
   "foods": [
     {
       "category": "한식",
@@ -32,6 +32,22 @@
     {
       "category": "한식",
       "name": "제육볶음"
+    },
+    {
+      "category": "양식",
+      "name": "파스타"
+    },
+    {
+      "category": "일식",
+      "name": "카레"
+    },
+    {
+      "category": "양식",
+      "name": "샌드위치"
+    },
+    {
+      "category": "양식",
+      "name": ""
     }
   ]
 }
