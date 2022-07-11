@@ -1,5 +1,5 @@
 {
-  Header: {
-    title: "Server Driven UI"
+  "header": {
+    "title": "Server Driven UI"
   }
 }
