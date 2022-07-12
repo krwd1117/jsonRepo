@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202207121012,
+  "updatedDate": 202207121619,
   "foods": [
     {
       "category": "한식",
@@ -64,6 +64,10 @@
     {
       "category": "양식",
       "name": "햄버거"
+    },
+    {
+      "category": "기타",
+      "name": ""
     }
   ]
 }
