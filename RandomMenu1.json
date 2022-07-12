@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202207121008,
+  "updatedDate": 202207121012,
   "foods": [
     {
       "category": "한식",
@@ -60,6 +60,10 @@
     {
       "category": "한식",
       "name": "칼국수"
+    },
+    {
+      "category": "양식",
+      "name": ""
     }
   ]
 }
