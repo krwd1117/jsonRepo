@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202207111123,
+  "updatedDate": 202207121008,
   "foods": [
     {
       "category": "한식",
@@ -52,6 +52,14 @@
     {
       "category": "중식",
       "name": "마라탕"
+    },
+    {
+      "category": "한식",
+      "name": "만둣국"
+    },
+    {
+      "category": "한식",
+      "name": "칼국수"
     }
   ]
 }
