@@ -1,5 +1,5 @@
 {
-  "updatedDate": 202207121619,
+  "updatedDate": 202207290946,
   "foods": [
     {
       "category": "한식",
@@ -68,6 +68,10 @@
     {
       "category": "기타",
       "name": "쌀국수"
+    },
+    {
+      "category": "중식",
+      "name": "우육면"
     }
   ]
 }
